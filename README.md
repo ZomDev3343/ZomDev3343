@@ -1,6 +1,6 @@
 ### Hi ! Welcome to my Github Page !
 
-My name is **Zom'**, I'm a 42 studant at Perpignan 🇫🇷
+My name is **Zom'**, I'm a 42 student at Perpignan 🇫🇷
 
 I tend to become Game Developer 🎮
 
