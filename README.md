@@ -40,12 +40,4 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ZomDev3343/ZomDev3343/output/snake.svg" alt="Snake animation" />
-
-###
-
 [![truello's 42 stats](https://badge42.coday.fr/api/v2/clvjj7mxh3319901p4y5i2rnlz/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
