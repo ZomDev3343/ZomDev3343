@@ -1,4 +1,5 @@
-<h2 align="left">Hi, I'm Thomas ! Welcome to my profile !</h2>
+<h1 align="center">Hi 👋😁, I'm Thomas</h1>
+<h3 align="center">A programmer a little too in love with his job 😎 Tends to become a game developer</h3>
 
 ###
 
