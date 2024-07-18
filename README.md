@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **contact.zomzd@gmail.com**
 
-- ⚡ Fun fact **Coffee doesn't work on me anymore 🫥**
+- ⚡ Fun fact **coffee doesn't work on me anymore 🫥**
 </h3>
 
 <h3 align="center">Connect with me:</h3>
