@@ -17,7 +17,7 @@
 <h3>
   - 🔭 I’m currently working on **my 42 School common core**
 
-- 🌱 I’m currently learning **C, C++, Go**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **C, C++, Game dev**
 
