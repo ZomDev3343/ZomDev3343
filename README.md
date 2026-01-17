@@ -4,8 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/zom___" target="blank"><img src="https://img.shields.io/twitter/follow/zom___?logo=twitter&style=for-the-badge" alt="zom___" /></a> </p>
 
-- 🔭 I'm currently working on **Peaxel - A Fantasy card game platform for athletes
-MakeHytaleMods - The leading French-speaking community for Hytale and its endless modding potential.**
+- 🔭 I'm currently working on<br/>
+ **Peaxel - A Fantasy card game platform for athletes.<br/>
+ MakeHytaleMods - The leading French-speaking community for Hytale and its endless modding potential.**
 
 - 🌱 I'm currently learning **React (with libs like zod, react-query, zustand)
 Php with Laravel**
