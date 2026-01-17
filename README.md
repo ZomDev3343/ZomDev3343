@@ -18,6 +18,14 @@ Php with Laravel**
 
 - 📫 How to reach me **contact.zomzd@gmail.com**
 
+<h2 align="center">My Current Projects</h2>
+
+<h3 align="center">Peaxel - Own the Game. Manage Real Athletes</h3>
+<p align="center"><a href="https://peaxel.me" target="_blank"><img src="./peaxel_logo.jfif" alt="peaxel-logo" width=128 height=128/></a></p>
+
+<h3 align="center">Make Hytale Mods - Documentations and Tutorials</h3>
+<p align="center"><a href="https://github.com/ZomDev3343/makehytalemods" target="_blank"><img src="./logo.png" alt="mhm-logo" width=128 height=128/></a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ZomDev3343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ZomDev3343" height="30" width="40" /></a>
