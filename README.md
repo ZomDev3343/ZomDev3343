@@ -25,7 +25,7 @@ Php with Laravel**
 <p align="center"><a href="https://peaxel.me" target="_blank"><img src="./peaxel_logo.jfif" alt="peaxel-logo" width=128 height=128/></a></p>
 
 <h3 align="center">Make Hytale Mods - Documentations and Tutorials</h3>
-<p align="center"><a href="https://github.com/ZomDev3343/makehytalemods" target="_blank"><img src="./logo.png" alt="mhm-logo" width=128 height=128/></a></p>
+<p align="center"><a href="https://zomdev3343.github.io/makehytalemods" target="_blank"><img src="./logo.png" alt="mhm-logo" width=128 height=128/></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
