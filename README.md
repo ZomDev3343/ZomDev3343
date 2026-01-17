@@ -1,65 +1,35 @@
-<h1 align="center">Hi 👋😁, I'm Thomas</h1>
-<h3 align="center">A programmer a little too in love with his job 😎 Tends to become a game developer</h3>
+# Hi 👋, I'm Thomas Ruello
 
-###
+### Curious fullstack developer (42 School Student)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZomDev3343&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZomDev3343&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZomDev3343&label=Profile views&color=0e75b6&style=flat" alt="ZomDev3343" /> </p>
 
-###
+<p align="left"> <a href="https://twitter.com/zom___" target="blank"><img src="https://img.shields.io/twitter/follow/zom___?logo=twitter&style=for-the-badge" alt="zom___" /></a> </p>
 
-<img align="right" height="150" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FvMmY1am53NWdvcmV6ZDI3eDY2dng2eG82YXBzMHloZG8yMnk4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13sK2LHnXFx5za/giphy.gif"  />
+- 🔭 I'm currently working on **Peaxel - A Fantasy card game platform for athletes
+MakeHytaleMods - The leading French-speaking community for Hytale and its endless modding potential.**
 
-###
+- 🌱 I'm currently learning **React (with libs like zod, react-query, zustand)
+Php with Laravel**
 
-<h3>
-  - 🔭 I’m currently working on **my 42 School common core**
+- 👯 I'm looking to collaborate on **Open-source projects I am passionate about**
 
-- 🌱 I’m currently learning **Go**
+- 🤝 I'm looking for help with **Designing robust project architectures and scalable logic.**
 
-- 💬 Ask me about **C, C++, Game dev**
+- 💬 Ask me about **React, Java, Hytale, Php, Laravel, Typescript**
 
 - 📫 How to reach me **contact.zomzd@gmail.com**
 
-- ⚡ Fun fact **coffee doesn't work on me anymore 🫥**
-</h3>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/zom__yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zom__yt" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26420062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26420062" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zomdev3343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zomdev3343" height="30" width="40" /></a>
-<a href="https://discord.gg/188763699778027521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="188763699778027521" height="30" width="40" /></a>
-  <br/><br/>
-  <a href="https://www.youtube.com/@Thomas-Code-t4g" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="mailto:contact.zomzd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/thomas-ruello/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ZomDev3343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ZomDev3343" height="30" width="40" /></a>
+<a href="https://instagram.com/thomas.ruello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thomas.ruello" height="30" width="40" /></a>
+<a href="https://twitter.com/zom___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zom___" height="30" width="40" /></a>
+<a href="https://discord.gg/zom666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zom666" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <h3>My Skills</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-###
-
-<div align="center">
-
-  [![truello's 42 stats](https://badge42.coday.fr/api/v2/clvjj7mxh3319901p4y5i2rnlz/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZomDev3343&" alt="ZomDev3343" /></p>
 
