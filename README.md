@@ -14,7 +14,7 @@ Php with Laravel**
 
 - 🤝 I'm looking for help with **Designing robust project architectures and scalable logic.**
 
-- 💬 Ask me about **React, Java, Hytale, Php, Laravel, Typescript**
+- 💬 Ask me about **React, Java, Php, Laravel, Typescript**
 
 - 📫 How to reach me **contact.zomzd@gmail.com**
 
